@@ -171,16 +171,32 @@ The project demonstrates:
 
 # 📂 Project Structure
 
-```text
-Student-Management-System
-
+Student-Management-System/
 │
-├── StudentManagementSystem.java
+├── README.md
+├── .gitignore
 │
-└── README.md
-```
-
----
+├── src/
+│   │
+│   ├── Main.java
+│   │
+│   ├── model/
+│   │   └── Student.java
+│   │
+│   ├── service/
+│   │   └── StudentService.java
+│   │
+│   ├── database/
+│   │   └── FileHandler.java
+│   │
+│   └── utils/
+│       └── InputValidator.java
+│
+├── data/
+│   └── students.dat
+│
+└── screenshots/
+    └── output.png
 
 # 📦 Installation
 
