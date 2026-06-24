@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ArrayOfStudent>
+
+<Student>
+
+<Id>101</Id>
+
+<Name>Bevinto Paul</Name>
+
+<Age>21</Age>
+
+<Department>Computer Science</Department>
+
+</Student>
+
+
+<Student>
+
+<Id>102</Id>
+
+<Name>John</Name>
+
+<Age>22</Age>
+
+<Department>Information Technology</Department>
+
+</Student>
+
+
+</ArrayOfStudent>
