@@ -342,6 +342,6 @@ MIT License
 
 B.Tech - Computer Science and Engineering
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/bevintop-coder
 
 Built with Java, OOP concepts, and a passion for software development 🎓
