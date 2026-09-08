@@ -1,0 +1,73 @@
+# Compiled Java files
+*.class
+
+# Java build directories
+target/
+out/
+build/
+bin/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Eclipse
+.metadata/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Java package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Java crash logs
+hs_err_pid*
+
+# Runtime/generated data
+*.dat
+*.ser
+
+# Environment / configuration
+.env
+.env.*
+
+# Test / coverage reports
+coverage/
+reports/
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+
+# Project-specific generated files
+data/students.dat
+screenshots/output.png
